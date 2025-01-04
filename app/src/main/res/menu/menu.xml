@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group >
+        <item
+            android:id="@+id/item_standard"
+            android:title="Standard"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/item_scientifique"
+            android:title="Scientifique"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/item_option"
+            android:title="Options"
+            app:showAsAction="never" />
+    </group>
+</menu>

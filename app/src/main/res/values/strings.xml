@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">SimpleCalculator</string>
+    <string name="MC">MC</string>
+    <string name="MR">MR</string>
+    <string name="Mplus">M+</string>
+    <string name="Mminus">M-</string>
+    <string name="MS">MS</string>
+
+    <string name="percent">%</string>
+    <string name="CE">CE</string>
+    <string name="C">C</string>
+    <string name="backspace">⌫</string>
+
+    <string name="reciprocal">1/x</string>
+    <string name="square">x²</string>
+    <string name="sqrt">²√x</string>
+    <string name="divide">÷</string>
+
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="multiply">×</string>
+
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="subtract">−</string>
+
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="add">+</string>
+
+    <string name="plusminus">±</string>
+    <string name="zero">0</string>
+    <string name="decimal">.</string>
+    <string name="equal">=</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+</resources>
